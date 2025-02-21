@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView Test</string>
+    <string name="n">n</string>
+    <string name="n_2">n^2</string>
+    <string name="holder">Holder</string>
+    <string name="goLabel">GO</string>
+    <string name="selectLabel">Select an Activity</string>
+</resources>
